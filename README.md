@@ -16,5 +16,14 @@ A **Spotify homepage clone** created using just **HTML5 and CSS3**. This project
 ---
 
 ## 📂 File Structure
+/spotify-clone
+├── index.html
+├── style.css
+├── /assets
+│ ├── /images (Spotify logo, album covers)
+│ └── /icons (SVGs or PNGs for nav icons)
+└── README.md
+
+
 
 
